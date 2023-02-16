@@ -1,3 +1,3 @@
 # JavaScript-API-AudiusAPI-
 Uso de alguna API disponible.
-<em> # Su título aquí </em>
+<h1 align="center"> JavaScript-API-AudiusAPI </h1>
