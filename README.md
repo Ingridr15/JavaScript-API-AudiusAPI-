@@ -17,4 +17,4 @@ La idea principal es que con la información proporcionada por la API, se pueda 
 
 
 ![Logo](https://sites.google.com/a/tectijuana.edu.mx/posgrado-con-la-industria/_/rsrc/1525283248146/config/customLogo.gif?revision=3)
-<small>Ingeniería en Sistemas Computacionales </small>
+#####Ingeniería en Sistemas Computacionales 
